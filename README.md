@@ -1,3 +1,5 @@
+ <img src="http://yqsigo.com/wp-content/uploads/2018/04/LOGO-UPS.png"/>
+ 
 # Simulación
 
 ### Este repositorio contiene los trabajos de la materia de Simulación
